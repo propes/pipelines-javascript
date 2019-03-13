@@ -1,5 +1,7 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/jamespropert/Ma%20Project/_apis/build/status/propes.pipelines-javascript?branchName=master)](https://dev.azure.com/jamespropert/Ma%20Project/_build/latest?definitionId=1&branchName=master)
+
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
